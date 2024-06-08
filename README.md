@@ -1,6 +1,4 @@
 # Sample-Projects
-Some sample projects I've completed for coursework
-
 
 Seam Carver: Image Resizer per this wikipedia article, RAII
 
