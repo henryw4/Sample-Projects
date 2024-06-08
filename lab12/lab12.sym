@@ -1,0 +1,20 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PARSELINE         3019
+//	PROCESSBIT        301B
+//	OUTZ              3020
+//	RIGHTSHIFT        3023
+//	LOOP              3025
+//	NEXTBIT           3029
+//	NEWLINE           302E
+//	STOP              3036
+//	FOUR              3037
+//	CHAR0             3038
+//	CHAR1             3039
+//	LINE              303A
+//	ZERO              303B
+//	FIRSTBIT          303C
+//	SIXTEEN           303D
+
